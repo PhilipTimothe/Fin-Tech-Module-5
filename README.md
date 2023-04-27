@@ -1,17 +1,20 @@
 # Fin-Tech-Module-5
-This module consists of exploration of quantitative analyst for a FinTech investing platform.  Each exercise is geared towards achieving quant level functionality which would aid in deploying investing strategy ideologies.
+This module allow the exploration of tools such that we can make api calls, make suggestable interpretations from forcasting models; directly coming from Monte Carlo simulations.
 
 ---
 
 ## Technologies
 
-Python, Path, Pandas, Numpy
+Python, Path, Pandas, os, requests, json, dotenv, alpaca_trade_api, MCForecastTools, %matplotlib inline
 
 ---
 
 ## Installation Guide
 
-Create a dev environment.  Run module via Jupyter Lab
+Create a dev environment.  Run module via Jupyter Lab. 
+
+pip install python-dotenv
+pip install alpaca-trade-api
 
 ---
 
